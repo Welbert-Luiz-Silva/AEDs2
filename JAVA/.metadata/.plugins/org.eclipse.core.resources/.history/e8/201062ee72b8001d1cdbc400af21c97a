@@ -1,0 +1,23 @@
+package Oepradores;
+
+public class OperadoresArtmetidos1 {
+
+	public static void main(String[] args) {
+		int n1 = 5;
+		int n2 = 2;
+		float m = (n1 + n2)/2;
+		System.out.println("A média de n1 e n2 = " + m);
+		
+		// Incremento e Decremento
+		
+		int num = 5;
+		int valor = 10 + num++;
+		System.out.println(valor);
+		
+		int valor1 = 10 + ++num;
+		System.out.println(valor1);
+		
+
+	}
+
+}
