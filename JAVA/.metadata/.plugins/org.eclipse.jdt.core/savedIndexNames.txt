@@ -1,11 +1,4 @@
 INDEX VERSION 1.131+C:\Users\Usuario\Documents\GitHub\AEDs2\JAVA\.metadata\.plugins\org.eclipse.jdt.core
 1865797976.index
-3559683518.index
 2125722497.index
-3748408733.index
-560084923.index
 537845404.index
-2911771678.index
-4147362349.index
-1351642757.index
-2660167239.index
