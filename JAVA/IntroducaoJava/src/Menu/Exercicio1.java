@@ -1,12 +1,15 @@
-package CorrcaoProva;
+package Menu;
 
 import java.util.Scanner;
 
-public class Correcao {
+public class Exercicio1 {
 
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		String[] gabarito = new String[8];
+		
+		// Enunciado do exercício
+		MyIO.println("EXERCICIO 1 - Correcao de provas");
 
 		// Solicita ao usuário que informe as respostas do gabarito
 		System.out.println("Digite as respostas do gabarito:");
@@ -62,4 +65,3 @@ public class Correcao {
 		return nota;
 	}
 }
-

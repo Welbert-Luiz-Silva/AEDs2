@@ -1,11 +1,14 @@
-
-package InverteFrase;
+package Menu;
 
 import java.util.Scanner;
 
-public class Inverte {
+public class Exercicio3 {
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        
+        //Enuncioado do Exercicio
+        MyIO.println("EXERCICIO 3 - Inverte frase digitada");
 
         // Lê a frase fornecida pelo usuário
         System.out.print("Digite uma frase para criptografar: ");
@@ -18,4 +21,3 @@ public class Inverte {
         System.out.println("Frase criptografada: " + fraseCriptografada);
     }
 }
-

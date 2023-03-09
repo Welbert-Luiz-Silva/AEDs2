@@ -1,12 +1,15 @@
-package Matriz3x4;
+package Menu;
 
 import java.util.Random;
 
-public class Matriz {
+public class Exercicio2 {
 
 	public static void main(String[] args) {
 		int[][] matriz = new int[3][4];
 		Random rand = new Random();
+		
+		//Enunciado do exercicio
+		MyIO.println("EXERCICIO 2 - Matriz 3 x 4");
 
 		// Preenche a matriz com números aleatórios entre 0 e 999
 		for (int i = 0; i < matriz.length; i++) {
