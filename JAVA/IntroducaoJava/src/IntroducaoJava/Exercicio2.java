@@ -1,4 +1,4 @@
-package Menu;
+package IntroducaoJava;
 
 import java.util.Random;
 

@@ -4,4 +4,6 @@
     <fullyQualifiedTypeName name="CorrcaoProva.Correcao"/>
     <fullyQualifiedTypeName name="Matriz3x4.Matriz"/>
     <fullyQualifiedTypeName name="InverteFrase.Inverte"/>
+    <fullyQualifiedTypeName name="While.MyIO"/>
+    <fullyQualifiedTypeName name="ComandosDeRepeticao.MyIO"/>
 </qualifiedTypeNameHistroy>

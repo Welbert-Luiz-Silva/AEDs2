@@ -1,4 +1,4 @@
-package Menu;
+package ComandosDeRepeticao;
 
 import java.io.*;
 import java.nio.charset.*;

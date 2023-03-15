@@ -1,7 +1,8 @@
-package Menu;
+package IntroducaoJava;
 
-import Menu.MyIO;
 import java.util.Scanner;
+
+import IntroducaoJava.MyIO;
 
 
 public class SelecaoDeExercícios {
@@ -14,6 +15,7 @@ public class SelecaoDeExercícios {
 		switch (exerc) {
 		case 1:
 			titulo = "Faça um programa, em Java, para corrigir provas de múltipla escolha. Cada prova tem oito questões e cada questão vale um ponto. O primeiro conjunto de dados a ser lido é o gabarito da prova. Os outros dados são os números dos alunos e suas respectivas respostas às questões da prova. Existem dez alunos matriculados.";
+			
 			break;
 		case 2:
 			titulo = "Faça um programa, em Java, que preencha uma matriz de ordem 3 x 4 (3 linhas e 4 colunas) com números inteiros e positivos";
