@@ -1,15 +1,16 @@
-package At1;
+//package At1;
 
-import At1.MyIO;
+//import At1.MyIO;
 
 public class ContaCaracterInt {
 
 	public static void main(String[] args) {
+		MyIO.setCharset("UTF-8");
 		String frase = MyIO.readLine();
 		while (!frase.equalsIgnoreCase("FIM")) {
 			int quant = contaMaiusculas (frase); //Repassa string para a função
-			MyIO.print(quant);
-			break;
+			MyIO.println(quant);
+			frase = MyIO.readLine();
 		}
 
 	}
