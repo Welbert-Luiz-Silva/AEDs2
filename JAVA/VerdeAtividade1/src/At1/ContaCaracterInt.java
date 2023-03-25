@@ -1,6 +1,4 @@
-//package At1;
-
-//import At1.MyIO;
+package At1;
 
 public class ContaCaracterInt {
 
@@ -12,7 +10,6 @@ public class ContaCaracterInt {
 			MyIO.println(quant);
 			frase = MyIO.readLine();
 		}
-
 	}
 
 	//Criando a Função que Conta os Caracteres Maiúsculos
